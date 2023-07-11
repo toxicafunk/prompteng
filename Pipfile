@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 openai = "*"
 ipykernel = "*"
+panel = "*"
 
 [dev-packages]
 
